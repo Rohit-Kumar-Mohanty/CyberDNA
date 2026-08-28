@@ -149,13 +149,13 @@ The project structure may evolve as development continues.
 
 ⚙️ Installation
 
-1. Clone the Repository
+1. Clone the Repository:
 git clone https://github.com/Rohit-Kumar-Mohanty/CyberDNA.git
 
-2. Navigate to the Project Directory
+2. Navigate to the Project Directory:
 cd CyberDNA
 
-3. Install Dependencies
+3. Install Dependencies:
 pip install -r requirements.txt
 
 4. Run the Project
